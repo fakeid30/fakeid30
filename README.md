@@ -45,14 +45,13 @@
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               25 mins             ███████████████████░░░░░░   76.43% 
-CSS                      7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.57%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 33 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -69,5 +68,5 @@ SaltStack                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2022
+ Last Updated on 18/01/2022
 <!--END_SECTION:waka-->

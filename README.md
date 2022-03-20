@@ -58,15 +58,15 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ██████████░░░░░░░░░░░░░░░   42.11% 
-C++                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-SaltStack                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+Python                   8 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+C++                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+SaltStack                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
 
 
 
- Last Updated on 19/03/2022 18:39:50 UTC
+ Last Updated on 20/03/2022 18:40:35 UTC
 <!--END_SECTION:waka-->

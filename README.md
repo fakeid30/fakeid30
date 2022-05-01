@@ -45,13 +45,14 @@
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+GitIgnore file           1 min               ██████████████████████░░░   90.6% 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.4%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.0%
 
 ```
 
@@ -68,5 +69,5 @@ SaltStack                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2022 18:42:50 UTC
+ Last Updated on 01/05/2022 18:42:28 UTC
 <!--END_SECTION:waka-->

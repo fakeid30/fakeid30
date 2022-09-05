@@ -28,7 +28,34 @@
 <h3 align="left">Development breakdown:</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2026%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
+🌆 Daytime    199 commits    ████████████░░░░░░░░░░░░░   48.89% 
+🌃 Evening    141 commits    ████████░░░░░░░░░░░░░░░░░   34.64% 
+🌙 Night      26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.39%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
 
 **I Mostly Code in Python** 
 
@@ -43,5 +70,5 @@ SaltStack                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 18:43:17 UTC
+ Last Updated on 05/09/2022 18:46:38 UTC
 <!--END_SECTION:waka-->

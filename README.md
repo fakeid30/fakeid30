@@ -28,6 +28,8 @@
 <h3 align="left">Development breakdown:</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2058%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -66,5 +68,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2023 18:34:14 UTC
+ Last Updated on 24/11/2023 18:33:52 UTC
 <!--END_SECTION:waka-->

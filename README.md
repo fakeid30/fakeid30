@@ -28,33 +28,6 @@
 <h3 align="left">Development breakdown:</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2017%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                467 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-🌆 Daytime                1717 commits        █████████████░░░░░░░░░░░░   53.69 % 
-🌃 Evening                844 commits         ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-🌙 Night                  170 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -68,5 +41,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2025 18:45:42 UTC
+ Last Updated on 02/05/2025 18:45:23 UTC
 <!--END_SECTION:waka-->
